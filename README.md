@@ -10,9 +10,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
+
 - Read more about my [Blog](https://hrealm.github.io)
 - Talk with me by [Email](mailto:huangjuhua0881@gmail.com)
 - Follow me on [Github](https://github.com/Hrealm) [Twitter]() 
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hrealm)
 
 
 <!--
