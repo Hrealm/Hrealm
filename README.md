@@ -14,7 +14,7 @@
 - Read more about my [Blog](https://hrealm.github.io)
 - Talk with me by [Email](mailto:huangjuhua0881@gmail.com)
 - Follow me on [Github](https://github.com/Hrealm) [Twitter]() 
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hrealm)
+<!-- - ![visitors](https://visitor-badge.glitch.me/badge?page_id=hrealm) -->
 
 
 <!--
